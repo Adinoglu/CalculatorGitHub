@@ -1,0 +1,15 @@
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\bin\Debug\net9.0\AdinCalc.exe
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\bin\Debug\net9.0\AdinCalc.deps.json
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\bin\Debug\net9.0\AdinCalc.runtimeconfig.json
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\bin\Debug\net9.0\AdinCalc.dll
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\bin\Debug\net9.0\AdinCalc.pdb
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.AssemblyInfoInputs.cache
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.AssemblyInfo.cs
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.csproj.CoreCompileInputs.cache
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.sourcelink.json
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.dll
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\refint\AdinCalc.dll
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.pdb
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\AdinCalc.genruntimeconfig.cache
+C:\Users\adin.sulejmanovic\Kalkulator\CalculatorGitHub\AdinCalc\obj\Debug\net9.0\ref\AdinCalc.dll
